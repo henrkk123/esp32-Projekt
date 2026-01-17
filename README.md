@@ -7,20 +7,16 @@ Wir entwickeln ein kompaktes, energieeffizientes System für **Embedded AI (Edge
 
 ## 🛠 Hardware & Software
 * **Hardware:** ESP32-CAM Modul
-* **Framework:** Arduino IDE oder PlatformIO
-* **KI-Modelle:** TensorFlow Lite for Microcontrollers / ESP-DL
-* **Sprache:** C++
+* **Framework:** PlatformIO
 
-## 📂 Projektstruktur
-* `/src`: Der Quellcode für den ESP32.
-* `/models`: Unsere trainierten KI-Modelle (.tflite Dateien).
-* `/docs`: Schaltpläne und Anleitungen.
+
+
 
 ## 📝 Geplante Funktionen
 - [ ] Live-Stream der Kamera im Netzwerk.
 - [ ] Bildklassifizierung (Mensch vs. Tier).
 - [ ] Benachrichtigung bei Erkennung.
-- [ ] Stromsparmodus (Deep Sleep).
+
 
 ---
 ![AI Detection](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBmYzAyZmsyemJ5ZGI0Mzd4aDRnZzlueXcxdHhzYWI0N3d2azZzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EwYYWTuzeYq2RseDMy/giphy.gif)
